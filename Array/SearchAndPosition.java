@@ -21,7 +21,6 @@ public class SearchAndPosition {
 		for(i=0;i<n;i++) {
 		if(a[i]==n) {
 			System.out.println("Element "+n+" found at "+i+" position");
-			//flag=1;
 			break;
 		}
 		else {
